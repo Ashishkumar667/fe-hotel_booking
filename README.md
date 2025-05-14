@@ -21,6 +21,8 @@ If you are developing a production application, we recommend updating the config
     tsconfigRootDir: __dirname,
    },
 ```
+# Here is the video for demo
+https://youtu.be/-jkZ9seMtwA?si=YFVv5cT3CtlWt2mj
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`

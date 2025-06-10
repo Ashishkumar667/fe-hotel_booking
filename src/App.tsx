@@ -16,7 +16,7 @@ import Detail from "./pages/Detail";
 import Booking from "./pages/Booking";
 import MyBookings from "./pages/MyBookings";
 import Home from "./pages/Home";
-import VerifyOtp from "./pages/verifyOtp";
+import VerifyOtp from "./pages/VerifyOtp";
 
 const App = () => {
   const { isLoggedIn } = useAppContext();
